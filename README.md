@@ -12,3 +12,9 @@ Menyelesaikan course-2 "Pengenalan ke Logika Pemrograman (Programming Logic 101)
 * Belajar gerbang logika(AND, OR, NOT, etc.)
 * Belajar computational thinking(Decomposition, Pattern recognition, Abstraction,etc.)
 * Memahami lebih dalam mengenai logika pemrograman seperti 
+
+**15 September 2024**</br>
+Mengikuti course-3 "Belajar Dasar Git dengan GitHub". (Progress: 42%)
+* Belajar konsep perintah-perintah dasar Git(commit, checkout, reset, revert)
+* Belajar cara kerja repository, alur kerja git
+* Belajar tampilan teks README
